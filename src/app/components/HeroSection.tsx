@@ -40,14 +40,14 @@ const HeroSection = () => {
             am also into content creation, so make sure to check out my YouTube
             channel.
           </p>
-          <div>
-            <button className=' font-mono font-bold px-6 py-3 rounded-full mr-8 bg-[#131313] hover:bg-slate-200 text-white border border-white hover:text-black mt-3'>
+          <div className='place-self-center'>
+            <button className=' font-mono font-bold px-6 py-3 rounded-full ml-4 mr-4 bg-[#131313] hover:bg-slate-200 text-white border border-white hover:text-black mt-3'>
               CONTACT ME
             </button>
-            <button className=' font-mono font-bold px-6 py-3 rounded-full mr-8 bg-[#131313] hover:bg-slate-200 text-white border border-white hover:text-black mt-3'>
+            <button className=' font-mono font-bold px-6 py-3 rounded-full ml-4 mr-4 bg-[#131313] hover:bg-slate-200 text-white border border-white hover:text-black mt-3'>
               VIEW MY GITHUB
             </button>
-            <button className=' font-mono font-bold px-6 py-3 rounded-full bg-[#131313] hover:bg-slate-200 text-white border border-white hover:text-black mt-3'>
+            <button className=' font-mono font-bold px-6 py-3 rounded-full ml-4 mr-4 bg-[#131313] hover:bg-slate-200 text-white border border-white hover:text-black mt-3'>
               SEE WHAT I'M UP TO
             </button>
           </div>
