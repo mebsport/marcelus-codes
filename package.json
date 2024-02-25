@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.1.1",
+    "mailutil": "^0.1.0",
     "mmh": "^0.0.0-alpha.0",
     "next": "14.1.0",
     "nmh": "^1.0.0",
