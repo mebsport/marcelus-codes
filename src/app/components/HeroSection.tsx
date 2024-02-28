@@ -10,7 +10,7 @@ const HeroSection = () => {
         <div className='col-span-7 place-self-center text-center sm:text-left'>
           <h1 className='text-white mb-4 text-4xl lg:text-6xl font-extrabold'>
             <span className='text-transparent bg-clip-text bg-gradient-to-r from-[#0047D4] to-white'>
-              Hello, I'm Marcelus, {''}
+              Hello, I&apos;m Marcelus, {''}
             </span>
             <br></br>
             <TypeAnimation
@@ -30,7 +30,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className='text-[#d4dce2] text-base sm:text-lg lg:text-xl mb-6'>
-            I'm a Developer, Designer, Photographer, and a Student. I love
+            I&apos;m a Developer, Designer, Photographer, and a Student. I love
             making games, websites, and working on any project I can get my
             hands on. I am looking forward to working with other developers, so
             if you want to work together on a project feel free to contact me. I
@@ -45,7 +45,7 @@ const HeroSection = () => {
               VIEW MY GITHUB
             </button>
             <button className=' font-mono font-bold px-6 py-3 rounded-full ml-4 mr-4 bg-[#131313] hover:bg-slate-200 text-white border border-white hover:text-black mt-3'>
-              SEE WHAT I'M UP TO
+              SEE WHAT I&apos;M UP TO
             </button>
           </div>
         </div>
