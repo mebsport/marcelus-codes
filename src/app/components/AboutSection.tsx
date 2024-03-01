@@ -18,7 +18,7 @@ const AboutSection = () => {
       title: 'Skills',
       id: 'skills',
       content: (
-        <ul className='list-disc pl-6'>
+        <ul className='list-disc pl-4'>
           <li>React</li>
           <li>Next.js</li>
           <li>Unity3D</li>
@@ -29,7 +29,7 @@ const AboutSection = () => {
       title: 'Languages',
       id: 'languages',
       content: (
-        <ul className='list-disc pl-6'>
+        <ul className='list-disc pl-4'>
           <li>JavaScript</li>
           <li>HTML</li>
           <li>CSS</li>
@@ -43,7 +43,7 @@ const AboutSection = () => {
       title: 'Education',
       id: 'education',
       content: (
-        <ul className='list-disc pl-6'>
+        <ul className='list-disc pl-4'>
           <li>Windsor High School CO&apos; 2024</li>
         </ul>
       ),
