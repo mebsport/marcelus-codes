@@ -55,14 +55,14 @@ const AboutSection = () => {
       <div className='md:grid md:grid-cols-2 gap-8 py-8 px-4 xl:gap-16 sm:py-16 xl:px-16'>
         <div>
           <Image
-            src='/images/Marcelus_Coding_Robotics.png'
+            src='/Images/Marcelus_Coding_Robotics.png'
             alt='Marcelus Coding At Robotics Competition'
             width={600}
             height={600}
           />
           <Image
             className='mt-4'
-            src='/images/Fun_Robotics_Coding.png'
+            src='/Images/Fun_Robotics_Coding.png'
             alt='Fun Coding At Robotics Competition'
             width={600}
             height={600}
