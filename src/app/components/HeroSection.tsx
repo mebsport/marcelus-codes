@@ -41,7 +41,12 @@ const HeroSection = () => {
             <button className=' font-mono font-bold px-6 py-3 rounded-full ml-4 mr-4 bg-[#131313] hover:bg-slate-200 text-white border border-white hover:text-black mt-3'>
               CONTACT ME
             </button>
-            <button className=' font-mono font-bold px-6 py-3 rounded-full ml-4 mr-4 bg-[#131313] hover:bg-slate-200 text-white border border-white hover:text-black mt-3'>
+            <button
+              className=' font-mono font-bold px-6 py-3 rounded-full ml-4 mr-4 bg-[#131313] hover:bg-slate-200 text-white border border-white hover:text-black mt-3'
+              onClick={() =>
+                window.open('https://github.com/mebsport', '_blank')
+              }
+            >
               VIEW MY GITHUB
             </button>
             <button className=' font-mono font-bold px-6 py-3 rounded-full ml-4 mr-4 bg-[#131313] hover:bg-slate-200 text-white border border-white hover:text-black mt-3'>
