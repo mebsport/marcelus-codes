@@ -69,7 +69,7 @@ const AboutSection = () => {
           />
         </div>
         <div className='mt-4 md:mt-0 text-left flex flex-col h-full'>
-          <h2 className='text-4xl text-white mb-4 font-bold'>About Me</h2>
+          <h2 className='text-4xl text-transparent bg-clip-text bg-gradient-to-r from-[#0047D4] to-white mb-4 font-bold'>About Me</h2>
           <p className='text-base md:text-lg text-[#d4dce2]'>
             Hi there! I&apos;m a 17-year-old web and mobile developer based in
             Hartford, CT, with a passion for crafting immersive digital
