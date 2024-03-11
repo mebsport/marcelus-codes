@@ -7,6 +7,8 @@ const projectsData = [
     title: 'Personal Portfolio',
     description: 'This is a personal portfolio',
     imgUrl: '/Images/Projects/marcelus-brown-portfolio-screenshot.png',
+    gitUrl:'https://github.com/mebsport/portfolio',
+    siteUrl:'https://marcelusbrown.com/'
   },
 ]
 
@@ -21,6 +23,8 @@ const ProjectSection = () => {
             title={project.title}
             description={project.description}
             imgUrl={project.imgUrl}
+            gitUrl={project.gitUrl}
+            siteUrl={project.siteUrl}
           />
         ))}
       </div>
