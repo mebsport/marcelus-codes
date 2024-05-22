@@ -4,6 +4,14 @@ import ProjectCard from './ProjectCard'
 const projectsData = [
   {
     id: 1,
+    title: 'Windsor Project Graduation',
+    description: 'Homepage for the Windsor project graduation committee', 
+    imgUrl: '/Images/Projects/projectgradscreenshot.png',
+    gitUrl:'https://github.com/mebsport/windsor-project-graduation-site',
+    siteUrl:'https://windsorprojectgraduation.org/'
+  },
+  {
+    id: 2,
     title: 'Personal Portfolio',
     description: 'This is a personal portfolio',
     imgUrl: '/Images/Projects/marcelus-brown-portfolio-screenshot.png',
